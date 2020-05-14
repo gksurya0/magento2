@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+    <preference for="Neo\TestApi\Api\TestApiManagementInterface" type="Neo\TestApi\Model\Api\TestApiManagement" />
+    <preference for="Neo\TestApi\Api\Data\TestApiInterface" type="Neo\TestApi\Model\TestApi" />
+</config>

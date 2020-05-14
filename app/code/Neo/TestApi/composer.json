@@ -1,0 +1,16 @@
+{
+  "name": "neo/testapi",
+  "description": "test api for magento2",
+  "type": "magento2-module",
+  "license": [
+    "proprietary"
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Neo\\TestApi\\": ""
+    }
+  }
+}
