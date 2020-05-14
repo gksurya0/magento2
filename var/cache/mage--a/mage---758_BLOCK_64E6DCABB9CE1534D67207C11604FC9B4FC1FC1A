@@ -1,0 +1,6 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1589371380;s:6:"expire";i:1589374980;s:4:"tags";s:57:"758_BLOCK_HTML,758_CAT_C,758_CAT_C_3,758_CAT_C_4,758_MAGE";}
+
+<nav class="navigation" data-action="navigation">
+    <ul data-mage-init='{"menu":{"responsive":true, "expanded":true, "position":{"my":"left top","at":"left bottom"}}}'>
+        <li  class="level0 nav-1 category-item first level-top"><a href="http://127.0.0.1/mage2/category-1.html"  class="level-top" ><span>category_1</span></a></li><li  class="level0 nav-2 category-item last level-top parent"><a href="http://127.0.0.1/mage2/gear.html"  class="level-top" ><span>Gear</span></a><ul class="level0 submenu"><li  class="level1 nav-2-1 category-item first last"><a href="http://127.0.0.1/mage2/gear/fitness-equipment.html" ><span>Fitness Equipment</span></a></li></ul></li>            </ul>
+</nav>
