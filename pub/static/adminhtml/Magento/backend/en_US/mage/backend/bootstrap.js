@@ -1,0 +1,1 @@
+/var/www/html/mage2/lib/web/mage/backend/bootstrap.js
